@@ -65,11 +65,9 @@
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cauemustafa&show_icons=true&theme=tokyonight&locale=en" alt="cauemustafa" />
   </p>
-
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cauemustafa&theme=tokyonight" alt="cauemustafa" />
   </p>
-
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cauemustafa&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="cauemustafa" />
   </p>
@@ -79,10 +77,10 @@
   Connect with me:
 </h3>
 <p align="left">
-  <a href="https://linkedin.com/in/cauemustafa" target="blank">
+  <a href="https://linkedin.com/in/cauemustafa" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cauemustafa" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/cauemustafa" target="blank">
+  <a href="https://www.hackerrank.com/cauemustafa" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cauemustafa" height="30" width="40" />
   </a>
 </p>
@@ -91,7 +89,7 @@
   Support:
 </h3>
 <p align="left">
-  <a href="https://www.buymeacoffee.com/cauemustafa">
+  <a href="https://www.buymeacoffee.com/cauemustafa" target="_blank">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cauemustafa" />
   </a>
 </p>
