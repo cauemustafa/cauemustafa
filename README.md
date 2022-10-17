@@ -6,7 +6,7 @@
   A passionate web developer student from Brazil
 </h3>
 
-- 🌱 I’m currently learning **React (+Redux +Hooks)**
+- 🌱 I’m currently learning **React (+ContextAPI +Hooks)**
 
 - 👨‍💻 All of my projects are available at [http://cauemustafa.me](http://cauemustafa.me)
 
