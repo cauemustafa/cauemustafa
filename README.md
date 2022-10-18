@@ -60,38 +60,60 @@
   </p>
 </section>
 
-<section align="left">
-  <p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cauemustafa&show_icons=true&theme=tokyonight&locale=en" alt="cauemustafa" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cauemustafa&theme=tokyonight" alt="cauemustafa" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cauemustafa&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="cauemustafa" />
-  </p>
-</section>
+<table>
+  <tr>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=cauemustafa&theme=tokyonight&show_icons=true&hide_border=true" />
+    </td>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauemustafa&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">
+<table>
+  <tr>
+    <td width="40%" align="center" vertical-align="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauemustafa&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+    <td width="70%" align="center" vertical-align="middle">
+      <img alt="Cauê Activity Chart" src="https://activity-graph.herokuapp.com/graph?username=cauemustafa&bg_color=1a1b27&color=58a6ff&line=bf91f3&point=38bdae&hide_border=true&area_color=00ffd2&area=true" />
+    </td>
+  </tr>
+</table>
+
+<h3>
   Connect with me:
 </h3>
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/cauemustafa" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cauemustafa" height="30" width="40" />
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="LinkedIn logo"
+      height="30"
+      width="40"
+    />
   </a>
   <a href="https://www.hackerrank.com/cauemustafa" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cauemustafa" height="30" width="40" />
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
+      alt="HackerRank logo"
+      height="30"
+      width="40"
+    />
   </a>
 </p>
-<br>
-<h3 align="left">
+
+<h3>
   Support:
 </h3>
-<p align="left">
+<p>
   <a href="https://www.buymeacoffee.com/cauemustafa" target="_blank">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cauemustafa" />
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      height="50"
+      width="210"
+      alt="buy me a coffe logo"
+    />
   </a>
 </p>
-<br>
-<br>
