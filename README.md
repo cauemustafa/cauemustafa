@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React (+ContextAPI +Hooks)**
 
-- 👨‍💻 All of my projects are available at [http://cauemustafa.me](http://cauemustafa.me)
-
 - 💬 Ask me about **javascript, react, redux and gardening**
 
 - 📫 How to reach me **cauemustafa@live.com**
