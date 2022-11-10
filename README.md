@@ -10,8 +10,9 @@
 
 - ⚡ Curious fact **i love collecting seeds and growing them**
 
+----
 <section>
-
+ 
 ### Languages and Tools
 
   <p align="left">
@@ -82,6 +83,8 @@
       <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" alt="stylelint"/>
     </a>
   </p>
+
+----
 </section>
 
 <table>
