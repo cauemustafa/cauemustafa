@@ -58,22 +58,13 @@
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
     </a>
-     <a href="https://mui.com/pt/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material ui"/>
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-    </a>
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npmjs"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
     </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="mysql"/>
-    </a>
-        <a href="https://prettier.io/" target="_blank" rel="noreferrer">
+    <a href="https://prettier.io/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier"/>
     </a>
      <a href="https://eslint.org/" target="_blank" rel="noreferrer">
@@ -81,6 +72,12 @@
     </a>
     <a href="https://stylelint.io/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" alt="stylelint"/>
+    </a>
+    <a href="https://mui.com/pt/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material ui"/>
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
     </a>
   </p>
 
@@ -108,6 +105,8 @@
     </td>
   </tr>
 </table>
+
+----
 
 ### Connect With Me
 
