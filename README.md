@@ -2,7 +2,7 @@
 
  ### A passionate web developer student from Brazil
 
-- 🌱 I’m currently learning **React (+ContextAPI +Hooks)**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **javascript, react, redux and gardening**
 
