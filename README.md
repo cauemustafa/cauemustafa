@@ -1,8 +1,7 @@
 # Hi 👋, I'm Cauê Mustafá
 
- ### A passionate web developer student from Brazil
-
-- 🌱 I’m currently learning **Docker**
+ ### A passionate web developer student at [Trybe](https://betrybe.com)
+- 🌱 I’m currently learning **Docker and mySQL**
 
 - 💬 Ask me about **javascript, react, redux and gardening**
 
@@ -25,18 +24,6 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
     </a>
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
-    </a>
-    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-    </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
     </a>
@@ -57,9 +44,6 @@
     </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
-    </a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npmjs"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
