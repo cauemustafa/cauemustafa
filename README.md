@@ -1,7 +1,7 @@
 # Hi 👋, I'm Cauê Mustafá
 
  ### A passionate web developer student at [Trybe](https://betrybe.com)
-- 🌱 I’m currently learning **Docker and mySQL**
+- 🌱 I’m currently learning **NodeJs** and **Sequelize**
 
 - 💬 Ask me about **javascript, react, redux and gardening**
 
@@ -75,17 +75,6 @@
     </td>
     <td width="50%" align="center" vertical-align="middle">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauemustafa&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="40%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauemustafa&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-    <td width="70%" align="center" vertical-align="middle">
-      <img alt="Cauê Activity Chart" src="https://activity-graph.herokuapp.com/graph?username=cauemustafa&bg_color=1a1b27&color=58a6ff&line=bf91f3&point=38bdae&hide_border=true&area_color=00ffd2&area=true" />
     </td>
   </tr>
 </table>
