@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cauê Mustafá
 
- ### A passionate web developer student at [Trybe](https://betrybe.com)
+ ### A passionate web developer student
 - 🌱 I’m currently learning **NodeJs** and **Sequelize**
 
 - 💬 Ask me about **javascript, react, redux and gardening**
