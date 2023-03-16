@@ -48,20 +48,8 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
     </a>
-    <a href="https://prettier.io/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier"/>
-    </a>
-     <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint"/>
-    </a>
-    <a href="https://stylelint.io/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" alt="stylelint"/>
-    </a>
     <a href="https://mui.com/pt/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material ui"/>
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
     </a>
   </p>
 
