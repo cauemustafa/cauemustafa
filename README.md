@@ -1,11 +1,9 @@
 # Hi 👋, I'm Cauê Mustafá
 
  ### A passionate web developer student
-- 🌱 I’m currently learning **NodeJs** and **Sequelize**
+- 🌱 I’m currently learning **Typescript** and **MongoDB**
 
 - 💬 Ask me about **javascript, react, redux and gardening**
-
-- 📫 How to reach me **cauemustafa@live.com**
 
 - ⚡ Curious fact **i love collecting seeds and growing them**
 
