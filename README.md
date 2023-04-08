@@ -45,10 +45,7 @@
 
 ----
 
-<section align="center">
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=cauemustafa&theme=tokyonight&show_icons=true&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cauemustafa&theme=tokyonight&hide_border=true)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauemustafa&theme=tokyonight&hide_border=true)
 
-</section>
