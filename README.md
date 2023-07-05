@@ -2,7 +2,7 @@
 
 ### A passionate web developer student
 
-- 🌱 I’m currently learning **Typescript** and **MongoDB**
+- 🌱 I’m currently learning **Typescript** and **POO**
 
 - 💬 Talk to me about **digital permaculture, open source and any of languages or tools bellow**
 
