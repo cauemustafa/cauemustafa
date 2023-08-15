@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Typescript** and **POO**
 
-- 💬 Talk to me about **digital permaculture, open source and any of languages or tools bellow**
+- 💬 Talk to me about **digital permaculture, Free Software and any of languages or tools bellow**
 
 - ⚡ Curious fact **i love collect seeds in nature**
 
