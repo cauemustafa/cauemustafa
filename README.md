@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cauê Mustafá
 
-### A passionate web developer student
+### A passionate developer student
 
 - 🌱 I’m currently learning **Terraform** and **AWS**
 
