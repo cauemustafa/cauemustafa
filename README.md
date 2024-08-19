@@ -2,7 +2,7 @@
 
 ### A passionate developer student
 
-- 🌱 I’m currently learning **Terraform** and **AWS**
+- 🌱 I’m currently learning **C** and **Shell**.
 
 - 💬 Talk to me about **digital permaculture, cloud computing and any of languages or tools bellow**
 
@@ -25,9 +25,6 @@
  #### DevOps
  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
