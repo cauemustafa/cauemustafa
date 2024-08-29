@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C** and **Shell**.
 
-- 💬 Talk to me about **digital permaculture, cloud computing and any of languages or tools bellow**
+- 💬 Talk to me about **digital permaculture, cloud computing and gardening**
 
 - ⚡ Curious fact **i love collect seeds in nature**
 
