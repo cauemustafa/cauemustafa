@@ -2,7 +2,7 @@
 
 ### A passionate developer student
 
-- 🌱 I’m currently learning **C** and **Shell**.
+- 🌱 I’m currently learning **C**.
 
 - 💬 Talk to me about **digital permaculture, cloud computing and gardening**
 
