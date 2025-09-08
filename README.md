@@ -2,11 +2,11 @@
 
 ### A passionate developer student
 
-- 🌱 I’m currently learning **C**.
+- 🌱 I’m currently learning **N8N**.
 
-- 💬 Talk to me about **digital permaculture, cloud computing and gardening**
+- 💬 Talk to me about **permaculture, programming and gardening**
 
-- ⚡ Curious fact **i love collect seeds in nature**
+- ⚡ Curious fact **i love to collect seeds**
 
 ----
  
