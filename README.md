@@ -55,9 +55,3 @@
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
-----
-
-![Stats](https://github-readme-stats.vercel.app/api?username=cauemustafa&theme=tokyonight&show_icons=true&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cauemustafa&theme=tokyonight&hide_border=true)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauemustafa&theme=tokyonight&hide_border=true)
-
