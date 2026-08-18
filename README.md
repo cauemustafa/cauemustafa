@@ -1,14 +1,6 @@
 # Hi 👋, I'm Cauê Mustafá
 
 ### A passionate developer student
-
-- 🌱 I’m currently learning **N8N**.
-
-- 💬 Talk to me about **permaculture, programming and gardening**
-
-- ⚡ Curious fact **i love to collect seeds**
-
-----
  
 ### OS, Languages and Tools
 
